@@ -3,12 +3,13 @@ import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
 import './App.css'
 import LudoBoard from './LudoBoard'
+import Form from "./Form"
 
 function App() {
 
   return (
     <>
-      <LudoBoard />
+      < Form/>
     </>
   )
 }
