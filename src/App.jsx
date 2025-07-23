@@ -4,12 +4,13 @@ import viteLogo from '/vite.svg'
 import './App.css'
 import LudoBoard from './LudoBoard'
 import Form from "./Form"
+import CommentsForm from '../CommentsForm'
 
 function App() {
 
   return (
     <>
-      < Form/>
+      < CommentsForm/>
     </>
   )
 }
