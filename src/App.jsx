@@ -10,12 +10,6 @@ function App() {
 
   return (
     <>
-
-
-
-
-
-
     </>
   )
 }
