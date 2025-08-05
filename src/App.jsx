@@ -12,6 +12,7 @@ function App() {
     <>
     <Form/>
     <LudoBoard/>
+    <CommentsForm/>
     </>
   )
 }
