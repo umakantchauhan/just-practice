@@ -9,7 +9,12 @@ export default function CommentsForm(){
                     <textarea name="" id="">Remarks</textarea>
                     <br /><br />
                     <input placeholder="rating" type="number" min={1} max={5} />
+
+                    
                     <br /><br />
+
+
+                    
                     <button>Add comments</button>
                     
                 </form>
