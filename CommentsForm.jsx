@@ -11,7 +11,6 @@ export default function CommentsForm(){
                     <input placeholder="rating" type="number" min={1} max={5} />
                     <br /><br />
                     <button>Add comments</button>
-                    
                 </form>
             </h4>
         </div>
