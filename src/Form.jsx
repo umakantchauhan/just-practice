@@ -11,6 +11,9 @@ export default function Form(){
             <input placeholder="enter full name" type="text" value={fullName} onChange={handleNameChange} id="username" />
             <button>Submit</button>
             <frame />
+
+
+            
         </form>
     )
     
