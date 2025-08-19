@@ -5,6 +5,9 @@ export default function Form(){
     let handleNameChange =(event)=>{
         setFullName(event.target.value);
     }
+
+
+     
     return (
         <form action="">
             <label htmlFor="username">Full Name</label>
